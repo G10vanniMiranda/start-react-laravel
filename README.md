@@ -7,3 +7,15 @@
         * Seeders --> informações iniciais que carregamos na tabela
     * resources --> views html, css, javascript
     * routes --> rotas de configuração para aplicação, login, tela de cadastro, produtos
+
+#### para rodar o projeto
+
+* instala as dependências
+```
+composer install
+```
+
+* roda o projeto
+ ```
+php artisan serve
+```
